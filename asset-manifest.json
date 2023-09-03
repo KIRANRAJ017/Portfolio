@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bdc2a4dc.css",
+    "main.js": "/Portfolio/static/js/main.a31a21f3.js",
+    "static/media/chatting.jpg": "/Portfolio/static/media/chatting.d8fb3223f00e75c72fa3.jpg",
+    "static/media/e-commerce.jpg": "/Portfolio/static/media/e-commerce.db53bf62a93376b21fcd.jpg",
+    "static/media/todo.jpeg": "/Portfolio/static/media/todo.3aacaf458d7576c91b32.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.bdc2a4dc.css.map": "/Portfolio/static/css/main.bdc2a4dc.css.map",
+    "main.a31a21f3.js.map": "/Portfolio/static/js/main.a31a21f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc2a4dc.css",
+    "static/js/main.a31a21f3.js"
+  ]
+}
